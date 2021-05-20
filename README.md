@@ -16,6 +16,7 @@
 2) On every 5 increments star symbol will change accordingly
 3) (0-5 -> not filled star),(5-10 -> Half filled star),(10-20 -> filled star),(20 is maximum limit)
 4) On 20 likes completion stop counter and inform user in a Toast message "Reached maximum limit"
+5) Please check ..src\main\assets folder for sample screenshots.
 
 
 
